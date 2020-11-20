@@ -9,7 +9,7 @@ script(use) library
 <br>
 <br>
 
-<img src='https://github.com/hahaha0417/g_plib/blob/main/s_ulib.png' width=100%>
+<img src='https://github.com/hahaha0417/s_ulib/blob/main/s_ulib.png' width=100%>
 
 
 <br>
