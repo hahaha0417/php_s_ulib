@@ -1,5 +1,5 @@
 # [php] s_ulib
-script(use) library
+s_ulib library - script(use)
 
 
 <br>
