@@ -9,7 +9,7 @@ s_u library - script(use)
 <br>
 <br>
 
-<img src='https://github.com/hahaha0417/s_ulib/blob/main/s_ulib.png' width=100%>
+<img src='https://github.com/hahaha0417/s_ulib/blob/master/s_ulib.png' width=100%>
 
 
 <br>
